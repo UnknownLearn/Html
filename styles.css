@@ -1,0 +1,46 @@
+
+h1{
+	border: 5px solid gray;
+	background-color: black;
+	padding: 5px;
+	margin: -1%;
+	font-family: "Comic Sans Ms";
+	color: white;
+	text-align: center;
+}
+a{
+	text-underline-position: all;
+	background: yellow;
+
+	padding: 10px;
+	padding-top: 6px;
+	padding-right: 15px;
+
+}
+p{
+	background-color: gray; 
+	border: 3px solid blue;
+	padding: 5px;
+	text-align: justify-all;
+	size: 15px;
+	font-size: 20;
+	margin: -1%;
+
+}
+h3{
+	text-align: center;
+}
+img{
+	padding: 20px;
+	margin-right: -5% ;
+}
+li{
+	font-size: 24px;
+	font-style: italic;
+	background-color: red;
+	color: green;
+	margin: 10px;
+}
+iframe{
+	border: 3px solid black;
+}
